@@ -1,0 +1,17 @@
+
+{
+    "test_id": "TEST-01",
+    "tool": "Destination Research Tool",
+    "input": {
+        "destination": "Darjeeling, India"
+    },
+    "status": "PASSED",
+    "destination": {
+        "name": "Darjeeling",
+        "latitude": 27.0377554,
+        "longitude": 88.263176
+    },
+    "total_attractions": 15,
+    "api": "OpenStreetMap",
+    "result": "Successfully retrieved destination and attraction information"
+}

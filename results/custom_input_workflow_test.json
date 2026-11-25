@@ -1,0 +1,25 @@
+{
+    "test_id": "CUSTOM-01",
+    "workflow": "Three-Agent Custom Input Workflow",
+    "status": "PASSED",
+    "destination": "Darjeeling, India",
+    "inputs": {
+        "days": 5,
+        "daily_hotel_cost": 2000,
+        "daily_food_cost": 1000,
+        "transport_cost": 3000,
+        "attraction_cost": 1500,
+        "total_budget": 20000,
+        "transport_mode": "bus"
+    },
+    "outputs": {
+        "total_attractions": 15,
+        "distance_km": 2.83,
+        "estimated_travel_time_minutes": 5.66,
+        "total_expenses": 19500,
+        "remaining_budget": 500,
+        "within_budget": true
+    },
+    "agents_executed": 3,
+    "errors": []
+}

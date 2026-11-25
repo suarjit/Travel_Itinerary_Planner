@@ -1,0 +1,25 @@
+{
+    "test_id": "TEST-06",
+    "workflow": "LangGraph Travel Workflow",
+    "status": "PASSED",
+    "destination": "Darjeeling, India",
+    "agents_executed": [
+        "Destination Research Agent",
+        "Transport Agent"
+    ],
+    "total_attractions": 15,
+    "selected_attraction": "Batasia Loop and War Memorial",
+    "distance_km": 2.83,
+    "estimated_travel_time_minutes": 4.85,
+    "workflow_logs": [
+        {
+            "node": "destination_node",
+            "status": "success"
+        },
+        {
+            "node": "transport_node",
+            "status": "success"
+        }
+    ],
+    "errors": []
+}

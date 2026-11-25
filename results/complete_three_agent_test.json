@@ -1,0 +1,34 @@
+{
+    "test_id": "TEST-10",
+    "workflow": "Three-Agent LangGraph Workflow",
+    "status": "PASSED",
+    "destination": "Darjeeling, India",
+    "agents": [
+        {
+            "name": "Destination Research Agent",
+            "status": "success",
+            "fallback_used": true,
+            "selected_attraction": "Batasia Loop and War Memorial"
+        },
+        {
+            "name": "Transport Agent",
+            "status": "success",
+            "distance_km": 2.83,
+            "estimated_travel_time_minutes": 4.85
+        },
+        {
+            "name": "Budget Planning Agent",
+            "status": "success",
+            "total_expenses": 9900,
+            "remaining_budget": 2100,
+            "within_budget": true
+        }
+    ],
+    "state_transitions": [
+        "START -> destination_node",
+        "destination_node -> transport_node",
+        "transport_node -> budget_node",
+        "budget_node -> END"
+    ],
+    "errors": []
+}

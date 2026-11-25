@@ -1,0 +1,17 @@
+
+{
+    "test_id": "TEST-02",
+    "tool": "Distance and Transport Estimation Tool",
+    "status": "PASSED",
+    "input": {
+        "origin": "Darjeeling",
+        "destination": "Batasia Loop",
+        "transport_mode": "car"
+    },
+    "output": {
+        "distance_km": 2.83,
+        "estimated_travel_time_minutes": 4.85,
+        "average_speed_kmh": 35
+    },
+    "limitation": "Uses straight-line geographical distance rather than actual road distance."
+}

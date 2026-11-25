@@ -1,0 +1,19 @@
+
+{
+    "test_id": "TEST-03",
+    "tool": "Travel Budget Calculator",
+    "status": "PASSED",
+    "input": {
+        "days": 3,
+        "daily_hotel_cost": 1500,
+        "daily_food_cost": 800,
+        "transport_cost": 2000,
+        "attraction_cost": 1000,
+        "total_budget": 12000
+    },
+    "output": {
+        "total_expenses": 9900,
+        "remaining_budget": 2100,
+        "within_budget": true
+    }
+}

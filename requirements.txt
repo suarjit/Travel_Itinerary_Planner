@@ -1,0 +1,9 @@
+langgraph
+langchain
+langchain-community
+streamlit
+pandas
+requests
+python-dotenv
+geopy
+pytest

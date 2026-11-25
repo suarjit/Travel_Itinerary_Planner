@@ -1,0 +1,16 @@
+{
+    "test_id": "TEST-12",
+    "test_name": "Complete Workflow Cache Logging Test",
+    "destination": "Darjeeling, India",
+    "destination_data_source": "Previously retrieved OpenStreetMap data",
+    "cached": true,
+    "total_attractions": 1,
+    "selected_attraction": "Batasia Loop and War Memorial",
+    "transport_mode": "car",
+    "distance_km": 2.83,
+    "total_expenses": 9900,
+    "remaining_budget": 2100,
+    "workflow_status": "success",
+    "errors": [],
+    "result": "PASSED"
+}

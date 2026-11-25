@@ -1,0 +1,98 @@
+
+{
+    "destination": "Darjeeling, India",
+    "attractions": [
+        {
+            "name": "Batasia Loop and War Memorial",
+            "category": "viewpoint",
+            "latitude": 27.0166796,
+            "longitude": 88.2470971
+        },
+        {
+            "name": "Tenzing Rock",
+            "category": "viewpoint",
+            "latitude": 27.0579363,
+            "longitude": 88.2565645
+        },
+        {
+            "name": "Statue of Bhanu Bhakta Acharya",
+            "category": "memorial",
+            "latitude": 27.0449738,
+            "longitude": 88.2675535
+        },
+        {
+            "name": "The Mall Market",
+            "category": "attraction",
+            "latitude": 27.045154,
+            "longitude": 88.2673746
+        },
+        {
+            "name": "Tomb of Alexander Csoma de Koros",
+            "category": "monument",
+            "latitude": 27.0522793,
+            "longitude": 88.2590252
+        },
+        {
+            "name": "Gombu Rock",
+            "category": "viewpoint",
+            "latitude": 27.0579554,
+            "longitude": 88.2562427
+        },
+        {
+            "name": "Burdwan Palace",
+            "category": "memorial",
+            "latitude": 27.0346257,
+            "longitude": 88.2541832
+        },
+        {
+            "name": "Tomb of General Lloyd",
+            "category": "monument",
+            "latitude": 27.0526757,
+            "longitude": 88.2586762
+        },
+        {
+            "name": "Ghum railway museum",
+            "category": "museum",
+            "latitude": 27.0083198,
+            "longitude": 88.2538849
+        },
+        {
+            "name": "Himalayan Tibet Museum",
+            "category": "museum",
+            "latitude": 27.0394434,
+            "longitude": 88.2658873
+        },
+        {
+            "name": "Himalayan Mountaineering Institute",
+            "category": "museum",
+            "latitude": 27.0583704,
+            "longitude": 88.2539385
+        },
+        {
+            "name": "Deshbandu Museum",
+            "category": "museum",
+            "latitude": 27.0466312,
+            "longitude": 88.2687387
+        },
+        {
+            "name": "Street Food Stalls",
+            "category": "attraction",
+            "latitude": 27.0440053,
+            "longitude": 88.2678841
+        },
+        {
+            "name": "Alexander Csoma de Kőrös memorial carve",
+            "category": "memorial",
+            "latitude": 27.0485351,
+            "longitude": 88.2658728
+        },
+        {
+            "name": "Ava art gallery museum",
+            "category": "museum",
+            "latitude": 27.0291586,
+            "longitude": 88.2574249
+        }
+    ],
+    "source": "Previously retrieved OpenStreetMap data",
+    "cached": true
+}

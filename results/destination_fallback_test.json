@@ -1,0 +1,12 @@
+{
+    "test_id": "TEST-07",
+    "tool": "Destination Research Tool",
+    "status": "PASSED",
+    "destination": "Darjeeling, India",
+    "live_api_status": "Unavailable",
+    "retry_attempts_per_server": 2,
+    "fallback_used": true,
+    "data_source": "Previously retrieved OpenStreetMap data",
+    "total_attractions": 1,
+    "selected_attraction": "Batasia Loop and War Memorial"
+}

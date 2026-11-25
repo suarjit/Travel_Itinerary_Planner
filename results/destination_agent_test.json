@@ -1,0 +1,14 @@
+{
+    "test_id": "TEST-04",
+    "agent": "Destination Research Agent",
+    "status": "PASSED",
+    "input": {
+        "destination": "Darjeeling, India"
+    },
+    "output": {
+        "destination": "Darjeeling",
+        "total_attractions": 15
+    },
+    "api": "OpenStreetMap",
+    "result": "Successfully retrieved destination details and 15 attractions."
+}

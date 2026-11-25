@@ -1,0 +1,80 @@
+{
+    "destination": "Darjeeling, India",
+    "days": 3,
+    "daily_hotel_cost": 1500,
+    "daily_food_cost": 800,
+    "transport_cost": 2000,
+    "attraction_cost": 1000,
+    "total_budget": 12000,
+    "transport_mode": "BUS",
+    "destination_info": {
+        "agent": "Destination Research Agent",
+        "status": "success",
+        "destination": {
+            "name": "Darjeeling",
+            "display_name": "Darjeeling, Darjeeling Pulbazar, Darjeeling, West Bengal, 734101, India",
+            "latitude": 27.0377554,
+            "longitude": 88.263176
+        },
+        "attractions": [
+            {
+                "name": "Batasia Loop and War Memorial",
+                "category": "viewpoint",
+                "latitude": 27.0166796,
+                "longitude": 88.2470971
+            }
+        ],
+        "total_attractions": 1,
+        "data_source": "Previously retrieved OpenStreetMap data",
+        "cached": true
+    },
+    "selected_attraction": {
+        "name": "Batasia Loop and War Memorial",
+        "category": "viewpoint",
+        "latitude": 27.0166796,
+        "longitude": 88.2470971
+    },
+    "transport_info": {
+        "agent": "Transport Agent",
+        "status": "success",
+        "distance_km": 2.83,
+        "transport_mode": "BUS",
+        "estimated_travel_time_minutes": 5.66,
+        "note": "Approximate straight-line distance and travel time, not a verified route."
+    },
+    "budget_info": {
+        "agent": "Budget Planning Agent",
+        "status": "success",
+        "total_expenses": 9900,
+        "remaining_budget": 2100,
+        "within_budget": true,
+        "expenses": {
+            "accommodation": 4500,
+            "food": 2400,
+            "transport": 2000,
+            "attractions": 1000
+        }
+    },
+    "logs": [
+        {
+            "node": "destination_node",
+            "agent": "Destination Research Agent",
+            "status": "success",
+            "data_source": "Previously retrieved OpenStreetMap data",
+            "cached": true,
+            "total_attractions": 1
+        },
+        {
+            "node": "transport_node",
+            "agent": "Transport Agent",
+            "status": "success"
+        },
+        {
+            "node": "budget_node",
+            "agent": "Budget Planning Agent",
+            "status": "success"
+        }
+    ],
+    "errors": [],
+    "status": "success"
+}
