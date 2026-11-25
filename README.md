@@ -15,6 +15,9 @@ Planning a trip involves researching destinations, selecting attractions, organi
 This project aims to simplify that process through a modular, multi-agent workflow.
 
 Users provide their travel requirements through an interactive Streamlit dashboard. The system processes those inputs through specialised agents and generates a structured travel itinerary.
+## Application Dashboard
+
+![Travel Itinerary Planner Dashboard](screenshots/dashboard.png)
 
 🎯 2. Project Objectives
 
